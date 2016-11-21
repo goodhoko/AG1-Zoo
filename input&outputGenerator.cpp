@@ -1,7 +1,3 @@
-//
-//  main.cpp
-//  ht
-//
 //  Created by Danil Luzin on 05/11/2016.
 //  Copyright © 2016 Danil Luzin. All rights reserved.
 //
